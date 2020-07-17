@@ -1,0 +1,33 @@
+conference-demo/HELP.md
+conference-demo/target/
+conference-demo/!.mvn/wrapper/maven-wrapper.jar
+conference-demo/!**/src/main/**/target/
+conference-demo/!**/src/test/**/target/
+
+### STS ###
+conference-demo/.apt_generated
+conference-demo/.classpath
+conference-demo/.factorypath
+conference-demo/.project
+conference-demo/.settings
+conference-demo/.springBeans
+conference-demo/.sts4-cache
+
+### IntelliJ IDEA ###
+conference-demo/.idea
+conference-demo/*.iws
+conference-demo/*.iml
+conference-demo/*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
